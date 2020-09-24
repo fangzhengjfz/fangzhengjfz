@@ -23,7 +23,7 @@
   <img align="left" alt="Francis Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 
+<br/>
+<br/>
 
-<br/>
-<br/>
 ![ViewCount](https://views.whatilearened.today/views/github/francisji5/views.svg)
