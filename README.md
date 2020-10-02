@@ -19,8 +19,8 @@
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:
-<a href="https://twitter.com/jifrancis709">
-  <img align="left" alt="Francis Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+<a href="https://www.linkedin.com/in/fangzheng-ji-8a7519112/">
+  <img align="left" alt="Francis LinkedIn" width="21px" src="https://raw.githubusercontent.com/francisji5/francisji5/master/img/linkedin.jpg" />
 </a>
 
 <br/>
