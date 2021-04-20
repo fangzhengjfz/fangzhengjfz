@@ -19,7 +19,7 @@
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:
-<a href="https://www.linkedin.com/in/fangzheng-ji-8a7519112/">
+<a href="https://www.linkedin.com/in/%E6%96%B9%E6%AD%A3-%E5%90%89-14b271210/">
   <img align="left" alt="Francis LinkedIn" width="21px" src="https://raw.githubusercontent.com/francisji5/francisji5/master/img/linkedin.jpg" />
 </a>
 
